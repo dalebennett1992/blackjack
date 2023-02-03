@@ -1,6 +1,7 @@
 import random
 import time
-
+ 
+# Global variables
 # Global variables
 
 suits = ('Hearts', 'Diamonds', 'Spades', 'Clubs')
